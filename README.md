@@ -108,7 +108,7 @@
 
 
 
-## SOME FILTERED RESULTS 
+#### SOME FILTERED RESULTS 
 * AUTH  -> No
 * HTTPS -> Yes
 * CORS -> No
@@ -174,7 +174,7 @@
 | [weather-api](https://github.com/robertoduessmann/weather-api)  | A RESTful free API to check the weather |  No  | Ys  | o |
 
 
-## SOME MORE 
+#### SOME MORE 
 * AUTH -> No
 * HTTPS -> No
 * CORS -> No
