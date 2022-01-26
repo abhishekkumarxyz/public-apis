@@ -109,9 +109,9 @@
 
 
 ## FILTERED RESULTS 
-* [AUTH No](#)
-* [HTTPS Yes](#)
-* [CORS No](#)
+* AUTH  -> No
+* HTTPS -> Yes
+* CORS -> No
 
 
 | API | Description | Auth | HTTPS | CORS |
@@ -175,9 +175,9 @@
 
 
 ## FILTERED RESULTS
-* [AUTH No](#)
-* [HTTP Yes](#)
-* [CORS No](#)
+* AUTH -> No
+* HTTP -> Yes
+* CORS -> No
 
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
