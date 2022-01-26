@@ -106,6 +106,90 @@
 * [Video](#video)
 * [Weather](#weather)
 
+
+
+##FILTERED RESULTS 
+#### [AUTH No](#auth-no)
+#### [HTTPS Yes](#https-yes)
+#### [CORS No](#cors-no)
+
+
+| API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [Axolotl](https://theaxolotlapi.netlify.app/) |Collection of axolotl pictures and facts | No | Yes | No |
+| [Cat Facts](https://alexwohlbruck.github.io/cat-facts/) |Daily cat facts | No | Yes | No |
+| [Cataas](https://cataas.com/)  |Cat as a service (cats pictures and gifs) | No | Yes | No |
+| [MeowFacts](https://github.com/wh-iterabb-it/meowfacts) |Get random cat facts | No | Yes | No |
+| [RandomDuck](https://random-d.uk/api) | Random pictures of ducks | No | Yes | No |
+| [RandomFox](https://randomfox.ca/floof/) | Random pictures of foxes | No | Yes | No |
+| [AnimeChan](https://github.com/RocktimSaikia/anime-chan) | Anime quotes (over 10k+) | No | Yes | No |
+| [Trace Moe](https://soruly.github.io/trace.moe-api/#/)   |A useful tool to get the exact scene of an anime from a screenshot | No | Yes | No |
+| [Waifu.im](https://waifu.im/docs) | Get waifu pictures from an archive of over 4000 images and multiple tags | No | Yes | No |
+| [Waifu.pics](https://waifu.pics/docs) | Image sharing platform for anime images | No | Yes | No |
+| [Metropolitan Museum of Art](https://metmuseum.github.io/)| Met Museum of Art | No | Yes | No |
+| [Pixel Encounter](https://pixelencounter.com/api) | SVG Icon Generator | No | Yes | No |
+| [Domainsdb.info](https://domainsdb.info/) | Registered Domain Names Search | No | Yes | No |
+| [Nager.Date](https://date.nager.at) | Public holidays for more than 90 countries | No | Yes | No |
+| [Russian Calendar](https://github.com/egno/work-calendar) | Check if a date is a Russian holiday or not | No | Yes | No |
+| [Mempool](https://mempool.space/api)| Bitcoin API Service focusing on the transaction fee  | No | Yes | No |
+| [FreeForexAPI](https://freeforexapi.com/Home/Api) | Real-time foreign exchange rates for major currency pairs | No | Yes | No |
+| [Ciprand](https://github.com/polarspetroll/ciprand) | Secure random str in g eneat or | No | Yes | No |
+| [host-t.com](https://host-t.com) | Basic DNS query via HTTP GET request 
+| [License-API](https://github.com/cmccandless/license-api/blob/master/README.md)  |Unofficial REST API for choosealicense.com | No | Yes | No |
+| [Plino](https://plino.herokuapp.com/) | An intelligent spam filtering system | No | Yes | No |
+| [Vector Express v2.0](https://vector.express) | Free vector file converting API | No | Yes | No |
+| [Rustybeer](https://rustybeer.herokuapp.com/) | Beer brewing tools | No | Yes | No |
+| [Age of Empires II](https://age-of-empires-2-api.herokuapp.com) |Get information about Age of Empires II resources | No | Yes | No |
+| [Minecraft Server Status](https://api.mcsrvstat.us) |API to get Information about a Minecraft Server | No | Yes | No |
+| [RuneScape](https://runescape.wiki/w/Application_programming_interface) |RuneScape and OSRS RPGs information | No | Yes | No |
+| [Steam](https://github.com/Revadike/InternalSteamWebAPI/wiki)      |Internal Steam Web API documentation  | No | Yes | No |
+| [xkcd](https://xkcd.com/json.html) |Reri ev xkcd comics as JSON | No | Yes | No |
+| [Ducks Unlimited](https://gis.ducks.org/datasets/du-university-chapters/api)     |API explorer that gives a query URL with a JSON response of locations and cities | No | Yes | No |
+| [Open Topo Data](https://www.opentopodata.org)                  |Elevation and ocean depth for a latitude and longitude | No | Yes | No |
+| [US Presidential Election Data by TogaTech](https://uselection.togatech.org/api/) | Basic candidate data and live electoral vote counts for top two parties in US presidential election| No | Yes | No |
+| [Covid Tracking Project](https://covidtracking.com/data/api/version-2)           | Covid-19  data for the US | No | Yes | No |
+| [Archive.org](https://archive.readme.io/docs) | The Internet Archive  | No | Yes | No |
+| [Open Data Minneapolis](https://opendata.minneapolismn.gov/)    | Spatial (GIS) and non-spatial city data for Minneapolis | No | Yes | No |
+| [Biriyani As A Service](https://biriyani.anoram.com/)| Biriyani images placeholder | No | Yes | No |
+| [Vadivelu HTTP Codes](https://vadivelu.anoram.com/)  | On demand HTTP Codes with images | No | Yes | No |
+| [ISRO](https://isro.vercel.app) |ISRO Space Crafts Information | No | Yes | No |
+| [Newton](https://newton.vercel.app) | Symbolic and Arithmetic Math Calculator  | No | Yes | No |
+| [Satellite Passes](https://satellites.fly.dev) | Query next satellite passes above you | No | Yes | No |
+| [Sunrise and Sunset](https://sunrise-sunset.org/api) | Sunset and sunrise times for a given latitude and longitude | No | Yes | No |
+| [Times Adder](https://github.com/FranP-code/API-Times-Adder) | With this API you can add each of the times introduced in the array sended | No | Yes | No |
+| [TLE](https://tle.ivanstanojevic.me/#/docs) | Satellite information | No | Yes | No |
+| [USGS Earthquake Hazards Program](https://earthquake.usgs.gov/fdsnws/event/1/)   | Earthquakes data real-time | No | Yes | No |
+| [USGS Water Services](https://waterservices.usgs.gov/) | Water quality and level info for rivers and lakes | No | Yes | No |
+| [World Bank](https://datahelpdesk.worldbank.org/knowledgebase/topics/125589) | World Data | No | Yes | No |
+| [Escape](https://github.com/polarspetroll/EscapeAPI) | An API for escaping different kind of queries | No | Yes | No |
+| [Sport Places](https://developers.decathlon.com/products/sport-places) | Crowd-source sports places around the world | No | Yes | No | 
+|[D iceea r vatars](https://avatars.dicebear.com/) | Generate random pixel-art avatars | No | Yes | No |
+| [English Random Words](https://random-words-api.vercel.app/word) | Generate English Random Words with Pronunciation | No | Yes | No |
+| [ItsThisForThat](https://itsthisforthat.com/api.php) | Generate Random startup ideas | No | Yes | No |
+| [PIPL](https://pipl.ir/) | Free and public API that generates random and fake people's data in JSON | No | Yes | No |
+| [UUID Generator](https://www.uuidtools.com/docs) | Generate UUIDs | No | Yes | No |
+| [Mgnet.me](http://mgnet.me/api.html) | Torrent URL shorten API | No | Yes | No |
+| [Brazilian Vehicles and Prices](https://deividfortuna.github.io/fipe/) | Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe | No | Yes | No |
+| [MetaWeather](https://www.metaweather.com/api/) | Weather | No | Yes | No |
+| [weather-api](https://github.com/robertoduessmann/weather-api)  | A RESTful free API to check the weather |  No  | Ys  | o |
+
+
+##FILTERED RESULTS
+#### [AUTH No](#auth-no) 
+#### [HTTP Yes](#http-yes)
+#### [CORS No](#cors-no)
+
+API | Description | Auth | HTTPS | CORS |
+|---|---|---|---|---|
+| [Steem](https://developers.steem.io/) | Blockchain-based blogging and social media website | No | No | No |
+| [Chinese Character Web](http://ccdb.hemiola.com/) | Chinese character definitions and pronunciations | No | No | No |
+| [Urban Observatory](https://urbanobservatory.ac.uk) | The largest set of publicly available real time urban data in the UK | No | No | No |
+| [Numbers](http://numbersapi.com) | Facts about numbers | No | No | No |
+| [Metro Lisboa](http://app.metrolisboa.pt/status/getLinhas.php) | Delays in subway lines | No | No | No |
+| [STAPI](http://stapi.co) | Information on all things Star Trek | No | No | No |
+
+
+
 ### Animals
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
